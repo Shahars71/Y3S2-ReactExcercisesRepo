@@ -1,0 +1,15 @@
+body {
+    background-color: #87bbca;
+    
+}
+.card{
+    border: 6px groove #221b1b;
+    border-radius: 20px;
+    width: calc(25%);
+    height: calc(30%);
+    margin: 25px;
+    text-align: center;
+    display: inline-block;
+    background: linear-gradient(0deg, #aa3c5d 0%, #82248f 96%);
+    color:white;
+}
